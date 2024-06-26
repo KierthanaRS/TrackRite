@@ -50,7 +50,7 @@ TrackRite is a comprehensive attendance management system designed specifically 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/trackrite.git
+   git clone https://github.com/KierthanaRS/TrackRite.git
    ```
 2. **Navigate to the project directory:**
    ```sh
