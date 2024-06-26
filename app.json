@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "attendance_tracker",
-    "slug": "attendance_tracker",
+    "name": "Attendance Tracker",
+    "slug": "Attendance-Tracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "Attendance Tracker",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
