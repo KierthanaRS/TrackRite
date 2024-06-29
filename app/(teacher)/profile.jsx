@@ -28,7 +28,7 @@ const profile = () => {
       setIsLoggedIn(false);
       router.replace('/sign-in');
     } catch (e) {
-      console.error(e);
+      Alert.alert('Success',"Logged out successfully")
     }
   };
   const chartConfig = {

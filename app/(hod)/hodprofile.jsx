@@ -65,7 +65,7 @@ const hodprofile = () => {
       setIsLoggedIn(false);
       router.replace('/sign-in');
     } catch (e) {
-      Alert.alert('Error', e.message);
+      Alert.alert('Success',"Logged out successfully")
     }
   };
 
