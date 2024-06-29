@@ -11,6 +11,10 @@ TrackRite is a comprehensive attendance management system designed specifically 
 - **Request for OD:** Submit OD requests for approval by your teacher and HOD.
 - **Request for Outpass:** Submit outpass requests for approval.
 - **View Profile:** Access your profile details along with a pie chart displaying your attendance statistics (present and absent percentage).
+
+
+
+
  ![alt text](./repoimages/studenthome1.png)
  ![alt text](./repoimages/studenthome2.png)
  ![alt text](./repoimages/complaints.png)
@@ -24,6 +28,9 @@ TrackRite is a comprehensive attendance management system designed specifically 
 - **Take Students Attendance:** Mark and manage the attendance of students in your classes.
 - **Approve OD and Outpass Requests:** Review and approve OD and outpass requests submitted by students.
 - **View Details:** Access your profile details along with a pie chart showing the attendance statistics (present percentage) of students.
+
+
+
 ![alt text](./repoimages/teacherhome.png)
 ![alt text](./repoimages/odapproval.png)
 ![alt text](./repoimages/teacherprofile.png)
@@ -34,6 +41,10 @@ TrackRite is a comprehensive attendance management system designed specifically 
 - **Approve OD and Outpass Requests:** Review and approve OD and outpass requests that have been pre-approved by the respective teachers.
 - **View All Details:** Access comprehensive details of students' and teachers' attendance, including individual attendance records.
 - **View Profile:** Access your profile details and review complaints raised by students.
+
+
+
+
 ![alt text](./repoimages/hodhome.png)
 ![alt text](./repoimages/hododrequest.png)
 ![alt text](./repoimages/tracker.png)
@@ -43,6 +54,9 @@ TrackRite is a comprehensive attendance management system designed specifically 
 - **Sign-In Page:** 
   - Users can sign in using their email and password.
   - Upon successful sign-in, users are redirected to their respective dashboards (student, teacher, or HOD) based on their role.
+ 
+
+
   ![alt text](./repoimages/indexpage.png)
   ![alt text](./repoimages/sign-in.png)
 
